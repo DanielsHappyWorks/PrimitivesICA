@@ -1,0 +1,45 @@
+C:\Users\mcguinnn\Downloads\GDApp\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+E:\2016-17\Semester 1\3DGD\GDApp - Wk4 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+E:\2016-17\Semester 1\3DGD\GDApp - Wk4 - Cl2\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk5 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+F:\2016-17\Semester 1\3DGD\Labs\Week 5\GDApp - Wk5 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+I:\2016-17\Semester 1\3DGD\Labs\Week 5\GDApp - Wk5 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+F:\2016-17\Semester 1\3DGD\Labs\Week 5\GDApp - Wk5 - Cl2 - CameraManager Methods - v1.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+F:\2016-17\Semester 1\3DGD\Labs\Week 5\GDApp - Wk5 - Cl2 - CameraManager Methods - v1.1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+I:\2016-17\Semester 1\3DGD\Labs\Week 5\GDApp - Wk5 - Cl2 - IController - v1.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk5 - Cl2 - IController - v1.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+E:\3DGD\Week 6\GDApp - Wk6 - Cl1 - Curve - v1.0\GDApp - Wk6 - Cl1 - Curve - v1.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+E:\3DGD\Week 6\GDApp - Wk6 - Cl1 - Curve - v2.0\GDApp - Wk6 - Cl1 - Curve - v2.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+G:\3DGD\Week 6\GDApp - Wk6 - Cl1 - TrackController - v1.0\GDApp - Wk6 - Cl1 - TrackController - v1.0\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk6 - Cl2\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+E:\3DGD\Week 6\GDApp - Wk6 - Cl2\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Tess\Downloads\GDApp - Wk6 - Cl2\GDApp - Wk6 - Cl2\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Halloween\GDApp - Halloween - Collision - 2\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Niall\Downloads\GDApp - Wk8 - Cl1 - Effect Parameters Dispose Remove\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk8 - Cl1 - Rail Camera and Events\GDApp - Wk8 - Cl1 - Rail Camera and Events\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+I:\GDApp - Wk8 - Cl2\GDApp - Wk8 - Cl2 - CollidableCameraController\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk8 - Cl2 - CollidableCameraController\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk9 - Cl1 - More remove and menu\GDApp - Wk9 - Cl1 - More remove and menu\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Niall\Downloads\GDApp - Wk9 - Cl2 - UI\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Niall\Dropbox\Work\2016-17\3DGD\Week 9\GDApp - Wk9 - Cl2 - UI\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk10 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk10 - Cl1\GDApp - Wk10 - Cl1\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Temp\GDApp - Wk10 - Cl3\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Temp\GDApp - Wk10 - Cl3\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Week 11\GDApp - Wk11 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\Week 11\GDApp - Wk11 - Cl1\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\mcguinnn\Downloads\GDApp - Wk11 - Cl1\GDApp - Wk11 - Cl1\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk11 - Cl1\GDApp - Wk11 - Cl1\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\Niall\Downloads\GDApp - Wk11 - Cl2 - Billboards and Video\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Niall\Downloads\GDApp - Wk11 - Cl2 - Billboards and Video\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl1 - Rendering Primitives\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl1 - Rendering Primitives\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking - v1.1\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking - v1.1\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.2\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\mcguinnn\Downloads\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.2\GDApp - Wk12 - Cl2 - CCR and Picking\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDAppContent\obj\x86\Debug\Assets\Audio\Demo2DSound.xml
+C:\Users\Lauren\Desktop\Daniel ICA\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDAppContent\obj\x86\Debug\GDAppContent.contentprojResolveAssemblyReference.cache

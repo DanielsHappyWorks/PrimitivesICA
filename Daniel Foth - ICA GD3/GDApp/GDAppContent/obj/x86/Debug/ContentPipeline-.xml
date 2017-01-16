@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Assets\Textures\Abstract\abstract1.jpg</Source>
+      <Name>Assets\Textures\Abstract\abstract1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Abstract\abstract1.xnb</Output>
+      <Time>2016-12-22T18:49:24.2406154+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Abstract\pink.jpg</Source>
+      <Name>Assets\Textures\Abstract\pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Abstract\pink.xnb</Output>
+      <Time>2016-12-22T18:49:24.3086181+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Abstract\pink_trans1.png</Source>
+      <Name>Assets\Textures\Abstract\pink_trans1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Abstract\pink_trans1.xnb</Output>
+      <Time>2016-12-22T18:49:24.3616233+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Fence\fence1.jpg</Source>
+      <Name>Assets\Textures\Architecture\Fence\fence1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Fence\fence1.xnb</Output>
+      <Time>2016-12-22T18:49:24.4726285+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Fence\fence2.jpg</Source>
+      <Name>Assets\Textures\Architecture\Fence\fence2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Fence\fence2.xnb</Output>
+      <Time>2016-12-22T18:49:24.5796371+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Fence\fence3.jpg</Source>
+      <Name>Assets\Textures\Architecture\Fence\fence3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Fence\fence3.xnb</Output>
+      <Time>2016-12-22T18:49:24.6586413+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Fence\fence4.png</Source>
+      <Name>Assets\Textures\Architecture\Fence\fence4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Fence\fence4.xnb</Output>
+      <Time>2016-12-22T18:49:26.0504092+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Walls\backwall.jpg</Source>
+      <Name>Assets\Textures\Architecture\Walls\backwall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Walls\backwall.xnb</Output>
+      <Time>2016-12-22T18:49:26.1584299+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Architecture\Walls\sidewall.jpg</Source>
+      <Name>Assets\Textures\Architecture\Walls\sidewall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Architecture\Walls\sidewall.xnb</Output>
+      <Time>2016-12-22T18:49:26.212418+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\ml.png</Source>
+      <Name>Assets\Textures\Debug\ml</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\ml.xnb</Output>
+      <Time>2016-12-22T18:49:26.6864504+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Ground\foliage.png</Source>
+      <Name>Assets\Textures\Foliage\Ground\foliage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\foliage.xnb</Output>
+      <Time>2016-12-22T18:49:26.8944584+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Ground\grass1.jpg</Source>
+      <Name>Assets\Textures\Foliage\Ground\grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Ground\grass1.xnb</Output>
+      <Time>2016-12-22T18:49:26.9904656+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Trees\tree1.png</Source>
+      <Name>Assets\Textures\Foliage\Trees\tree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree1.xnb</Output>
+      <Time>2016-12-22T18:49:27.3394829+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Trees\tree2.png</Source>
+      <Name>Assets\Textures\Foliage\Trees\tree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree2.xnb</Output>
+      <Time>2016-12-22T18:49:27.4114882+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Trees\tree3.png</Source>
+      <Name>Assets\Textures\Foliage\Trees\tree3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree3.xnb</Output>
+      <Time>2016-12-22T18:49:27.4814924+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Props\Crates\crate1.jpg</Source>
+      <Name>Assets\Textures\Props\Crates\crate1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate1.xnb</Output>
+      <Time>2016-12-22T18:49:28.3415414+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Props\Crates\crate2.jpg</Source>
+      <Name>Assets\Textures\Props\Crates\crate2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\Crates\crate2.xnb</Output>
+      <Time>2016-12-22T18:49:28.4095446+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\back.bmp</Source>
+      <Name>Assets\Textures\Skybox\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\back.xnb</Output>
+      <Time>2016-12-22T18:49:28.5595537+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\front.bmp</Source>
+      <Name>Assets\Textures\Skybox\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\front.xnb</Output>
+      <Time>2016-12-22T18:49:28.6565586+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\ground.bmp</Source>
+      <Name>Assets\Textures\Skybox\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\ground.xnb</Output>
+      <Time>2016-12-22T18:49:28.7745703+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\left.bmp</Source>
+      <Name>Assets\Textures\Skybox\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\left.xnb</Output>
+      <Time>2016-12-22T18:49:28.8835883+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\right.bmp</Source>
+      <Name>Assets\Textures\Skybox\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\right.xnb</Output>
+      <Time>2016-12-22T18:49:28.9795796+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Skybox\sky.bmp</Source>
+      <Name>Assets\Textures\Skybox\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Skybox\sky.xnb</Output>
+      <Time>2016-12-22T18:49:29.0835844+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\checkerboard.png</Source>
+      <Name>Assets\Textures\Debug\checkerboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\checkerboard.xnb</Output>
+      <Time>2016-12-22T23:00:39.0029352+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Trees\tree4.png</Source>
+      <Name>Assets\Textures\Foliage\Trees\tree4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree4.xnb</Output>
+      <Time>2016-12-22T18:49:27.7095054+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Trees\tree5.png</Source>
+      <Name>Assets\Textures\Foliage\Trees\tree5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Trees\tree5.xnb</Output>
+      <Time>2016-12-22T18:49:27.885518+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Shrubs\shrub1.png</Source>
+      <Name>Assets\Textures\Foliage\Shrubs\shrub1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub1.xnb</Output>
+      <Time>2016-12-22T18:49:27.0644694+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Shrubs\shrub2.png</Source>
+      <Name>Assets\Textures\Foliage\Shrubs\shrub2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub2.xnb</Output>
+      <Time>2016-12-22T18:49:27.1814752+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Foliage\Shrubs\shrub3.png</Source>
+      <Name>Assets\Textures\Foliage\Shrubs\shrub3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Foliage\Shrubs\shrub3.xnb</Output>
+      <Time>2016-12-22T18:49:27.2514784+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\mouseicons.png</Source>
+      <Name>Assets\Textures\UI\mouseicons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\mouseicons.xnb</Output>
+      <Time>2016-12-22T18:49:29.1385989+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\progress_gradient.png</Source>
+      <Name>Assets\Textures\UI\progress_gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\progress_gradient.xnb</Output>
+      <Time>2016-12-22T18:49:29.2085893+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\progress_white.png</Source>
+      <Name>Assets\Textures\UI\progress_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\progress_white.xnb</Output>
+      <Time>2016-12-22T18:49:29.2425924+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\white.png</Source>
+      <Name>Assets\Textures\UI\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\white.xnb</Output>
+      <Time>2016-12-29T17:38:32.1053723+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Menu\exitmenu.png</Source>
+      <Name>Assets\Textures\Menu\exitmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\exitmenu.xnb</Output>
+      <Time>2017-01-12T22:07:50.0502181+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Menu\mainmenu.PNG</Source>
+      <Name>Assets\Textures\Menu\mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\mainmenu.xnb</Output>
+      <Time>2017-01-12T22:13:10.0763427+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\slj.jpg</Source>
+      <Name>Assets\Textures\Debug\slj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\slj.xnb</Output>
+      <Time>2016-12-22T18:49:26.7484519+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Reticule\reticuleClosed.png</Source>
+      <Name>Assets\Textures\UI\Reticule\reticuleClosed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Reticule\reticuleClosed.xnb</Output>
+      <Time>2016-12-22T18:49:29.3536016+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Reticule\reticuleDefault.png</Source>
+      <Name>Assets\Textures\UI\Reticule\reticuleDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Reticule\reticuleDefault.xnb</Output>
+      <Time>2016-12-22T18:49:29.3866158+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\Reticule\reticuleOpen.png</Source>
+      <Name>Assets\Textures\UI\Reticule\reticuleOpen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\Reticule\reticuleOpen.xnb</Output>
+      <Time>2016-12-22T18:49:29.4236171+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\alarm1.png</Source>
+      <Name>Assets\Textures\Billboards\alarm1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\alarm1.xnb</Output>
+      <Time>2016-12-22T18:49:26.2754229+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\alarm2.png</Source>
+      <Name>Assets\Textures\Billboards\alarm2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\alarm2.xnb</Output>
+      <Time>2016-12-22T18:49:26.3154287+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\billboardtexture.jpg</Source>
+      <Name>Assets\Textures\Billboards\billboardtexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\billboardtexture.xnb</Output>
+      <Time>2016-12-22T18:49:26.3554283+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\chevron1.png</Source>
+      <Name>Assets\Textures\Billboards\chevron1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\chevron1.xnb</Output>
+      <Time>2016-12-22T18:49:26.3934479+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\chevron2.png</Source>
+      <Name>Assets\Textures\Billboards\chevron2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\chevron2.xnb</Output>
+      <Time>2016-12-22T18:49:26.4414323+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\snow1.png</Source>
+      <Name>Assets\Textures\Billboards\snow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\snow1.xnb</Output>
+      <Time>2016-12-22T18:49:26.4834371+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Billboards\welcome.png</Source>
+      <Name>Assets\Textures\Billboards\welcome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Billboards\welcome.xnb</Output>
+      <Time>2016-12-22T18:49:26.5214377+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Props\tv.png</Source>
+      <Name>Assets\Textures\Props\tv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Props\tv.xnb</Output>
+      <Time>2016-12-22T18:49:28.2545587+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Level\level1.png</Source>
+      <Name>Assets\Textures\Level\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Level\level1.xnb</Output>
+      <Time>2017-01-13T15:38:14.3116378+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\menu.spritefont</Source>
+      <Name>Assets\Fonts\menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\menu.xnb</Output>
+      <Time>2017-01-12T22:20:00.0941993+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\UI.spritefont</Source>
+      <Name>Assets\Fonts\UI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\UI.xnb</Output>
+      <Time>2017-01-11T14:55:53.672727+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Fonts\mouse.spritefont</Source>
+      <Name>Assets\Fonts\mouse</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Fonts\mouse.xnb</Output>
+      <Time>2016-12-22T18:49:24.0476043+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Effects\Billboard.fx</Source>
+      <Name>Assets\Effects\Billboard</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Effects\Billboard.xnb</Output>
+      <Time>2016-12-22T18:49:23.8355926+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Audio\boing.wav</Source>
+      <Name>Assets\Audio\boing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Audio\boing.xnb</Output>
+      <Time>2016-12-22T18:49:23.6215804+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Video\sample.wmv</Source>
+      <Name>Assets\Video\sample</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Video\sample.xnb</Output>
+      <Extra>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Video\sample.wmv</Extra>
+      <Time>2016-12-22T18:49:29.936634+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Level\level2.png</Source>
+      <Name>Assets\Textures\Level\level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Level\level2.xnb</Output>
+      <Time>2016-12-22T18:49:27.9645186+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\wall.jpg</Source>
+      <Name>Assets\Textures\Debug\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\wall.xnb</Output>
+      <Time>2016-12-22T23:26:32.7689808+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\floor.jpg</Source>
+      <Name>Assets\Textures\Debug\floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\floor.xnb</Output>
+      <Time>2016-12-22T23:06:02.9120685+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Debug\backdrop.jpg</Source>
+      <Name>Assets\Textures\Debug\backdrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Debug\backdrop.xnb</Output>
+      <Time>2016-12-22T23:06:53.8695107+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\colour.png</Source>
+      <Name>Assets\Textures\UI\colour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\colour.xnb</Output>
+      <Time>2016-12-29T17:38:32.1053723+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\UI\outline.png</Source>
+      <Name>Assets\Textures\UI\outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\UI\outline.xnb</Output>
+      <Time>2016-12-29T17:38:32.1210155+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Menu\losemenu.png</Source>
+      <Name>Assets\Textures\Menu\losemenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\losemenu.xnb</Output>
+      <Time>2017-01-12T22:44:37.9065542+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Menu\winmenu.png</Source>
+      <Name>Assets\Textures\Menu\winmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Menu\winmenu.xnb</Output>
+      <Time>2017-01-12T22:44:37.922161+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Level\level3.png</Source>
+      <Name>Assets\Textures\Level\level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Level\level3.xnb</Output>
+      <Time>2017-01-13T16:01:04.2598657+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Textures\Level\level4.png</Source>
+      <Name>Assets\Textures\Level\level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\Assets\Textures\Level\level4.xnb</Output>
+      <Time>2016-12-22T18:49:28.0005222+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDAppContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDAppContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dkill\Desktop\GDApp - Wk12 - Cl2 - CDCR and Picking and LevelLoader - v1.3\GDApp\GDApp\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-01T11:42:02.7127429+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

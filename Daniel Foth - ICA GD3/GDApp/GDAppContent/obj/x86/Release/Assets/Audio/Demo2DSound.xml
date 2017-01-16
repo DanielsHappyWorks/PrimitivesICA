@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="WaveBank1">Wave Bank
+{
+    Name = WaveBank1;
+    Xbox File = Xbox\WaveBank1.xwb;
+    Windows File = Win\WaveBank1.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3600362793;
+    Bank Last Revised High = 30567855;
+
+    Wave
+    {
+        Name = boing;
+        File = boing.wav;
+        Build Settings Last Modified Low = 809922770;
+        Build Settings Last Modified High = 30430317;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 7696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3805660051;
+            Last Modified High = 30430316;
+        }
+    }
+
+    Wave
+    {
+        Name = background;
+        File = background.wav;
+        Build Settings Last Modified Low = 1550656076;
+        Build Settings Last Modified High = 30567845;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 1411200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 889266748;
+            Last Modified High = 30567845;
+        }
+    }
+
+    Wave
+    {
+        Name = goodpickup;
+        File = goodpickup.wav;
+        Build Settings Last Modified Low = 2074677796;
+        Build Settings Last Modified High = 30567846;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 7310;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1781003900;
+            Last Modified High = 30567846;
+        }
+    }
+
+    Wave
+    {
+        Name = badpickup;
+        File = badpickup.wav;
+        Build Settings Last Modified Low = 2074677796;
+        Build Settings Last Modified High = 30567846;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 7310;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1577614814;
+            Last Modified High = 30567846;
+        }
+    }
+
+    Wave
+    {
+        Name = win;
+        File = win.wav;
+        Build Settings Last Modified Low = 325019936;
+        Build Settings Last Modified High = 30567847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 175452;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 221689964;
+            Last Modified High = 30567847;
+        }
+    }
+
+    Wave
+    {
+        Name = lose;
+        File = lose.wav;
+        Build Settings Last Modified Low = 3798605747;
+        Build Settings Last Modified High = 30567847;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 266140;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3670253618;
+            Last Modified High = 30567847;
+        }
+    }
+
+    Wave
+    {
+        Name = menuButtons;
+        File = menuButtons.wav;
+        Build Settings Last Modified Low = 3444956305;
+        Build Settings Last Modified High = 30567855;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 10144;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3345927365;
+            Last Modified High = 30561057;
+        }
+    }
+
+    Wave
+    {
+        Name = menuClick;
+        File = menuClick.wav;
+        Build Settings Last Modified Low = 3444956305;
+        Build Settings Last Modified High = 30567855;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 24576;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3346337261;
+            Last Modified High = 30561057;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
